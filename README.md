@@ -1,4 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10662697&assignment_repo_type=AssignmentRepo)
+
+for live:
+https://sensational-chaja-4c2a6c.netlify.app
+
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
